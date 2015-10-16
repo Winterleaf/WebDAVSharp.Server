@@ -3,15 +3,21 @@ WebDAVSharp.Server
 
 Updated Examples:
 Core WebDav System. This Project.
+
 URL: https://github.com/Winterleaf/WebDAVSharp.Server
+
 GIT: https://github.com/Winterleaf/WebDAVSharp.Server.git
 
 File System Based Example:
+
 URL: https://github.com/Winterleaf/WebDAVSharp.Example
+
 GIT: https://github.com/Winterleaf/WebDAVSharp.Example.git
 
 SQL Server based Example:
+
 URL: https://github.com/Winterleaf/Winterleaf-WebDavSharp.SQLExample
+
 GIT: https://github.com/Winterleaf/Winterleaf-WebDavSharp.SQLExample.git
 
 
